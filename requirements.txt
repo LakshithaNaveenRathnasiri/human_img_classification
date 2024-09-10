@@ -1,6 +1,6 @@
 tensorflow==2.17.0
 pillow
 matplotlib
-
+streamlit
 
 
