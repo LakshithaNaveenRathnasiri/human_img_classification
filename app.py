@@ -92,6 +92,6 @@ elif option == "About":
     # Container for about section
     with st.container():
         st.header("About")
-        st.write("This application uses a pre-trained MobileNetV2 model to classify Human images.")
+        st.write("This application uses a pre-trained MobileNetV2 model to classify images.")
         st.write("Upload an image, and the model will predict the most likely classes along with their probabilities.")
         st.write("Created with Streamlit and TensorFlow.")
